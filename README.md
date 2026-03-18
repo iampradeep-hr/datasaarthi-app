@@ -80,7 +80,10 @@ docker-compose up
 - Open **Adminer** (PostgreSQL UI running in Docker)  
 - Log in using your database credentials  
 - Go to SQL console  
-- Execute scripts from the `./scripts` folder  
+- Execute scripts from the `./scripts` folder
+<img width="1916" height="1007" alt="Screenshot from 2026-03-18 16-17-58" src="https://github.com/user-attachments/assets/2a52d18b-b84a-4c9c-8d1c-65daf7edb983" />
+<img width="1916" height="1007" alt="Screenshot from 2026-03-18 16-18-31" src="https://github.com/user-attachments/assets/433c2aa8-56ad-48ab-9eb8-75024b8ad6b8" />
+
 
 ---
 
