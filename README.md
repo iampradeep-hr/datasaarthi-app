@@ -47,9 +47,3 @@ When a question is asked:
 
 ---
 
-## 🚀 How to run
-
-### 1. Start Ollama
-
-```bash
-ollama run tinyllama
