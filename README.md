@@ -59,6 +59,8 @@ Clone the repository and build the Docker images:
 ```bash
 docker-compose build
 ```
+<img width="1916" height="1006" alt="Screenshot from 2026-03-18 16-12-52" src="https://github.com/user-attachments/assets/afceeac0-3d7f-4881-a3b9-a9f3bb5d4984" />
+
 
 ---
 
@@ -69,6 +71,7 @@ Run the containers:
 ```bash
 docker-compose up
 ```
+<img width="1916" height="1050" alt="Screenshot from 2026-03-18 16-16-21" src="https://github.com/user-attachments/assets/605b3348-bb38-44ed-97da-320f9d0e7c95" />
 
 ---
 
