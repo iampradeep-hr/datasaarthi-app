@@ -47,3 +47,17 @@ When a question is asked:
 
 ---
 
+## Instructions to run:
+
+1) Clone the project and run the docker build 
+<img width="1916" height="1006" alt="Screenshot from 2026-03-18 16-12-52" src="https://github.com/user-attachments/assets/e1ad617c-e3c8-4251-a264-70921e0f1932" />
+
+2) Once build is success, Run docker containers
+<img width="1916" height="1050" alt="Screenshot from 2026-03-18 16-15-57" src="https://github.com/user-attachments/assets/56152a53-4750-4f50-b050-bacf077b97ff" />
+<img width="1916" height="1050" alt="Screenshot from 2026-03-18 16-16-21" src="https://github.com/user-attachments/assets/ecd74cc6-7adf-4162-a4d8-43eb97ec4444" />
+
+3) Now Login into Adminer, SQL console for postgres in docker.
+<img width="1916" height="1007" alt="Screenshot from 2026-03-18 16-18-31" src="https://github.com/user-attachments/assets/6b835dac-6234-4b48-85f5-bdac050fcfd7" />
+
+
+
