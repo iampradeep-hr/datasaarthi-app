@@ -25,7 +25,16 @@ Instead of manually reading long PDFs, you can upload a document and ask questio
 
 This project follows a basic **Retrieval-Augmented Generation (RAG)** approach.
 
+## High-Level Architecture Diagram
+<img width="508" height="372" alt="diagram-export-3-18-2026-5_39_26-PM" src="https://github.com/user-attachments/assets/e92ed5bc-dbaf-4172-8e55-c00348409335" />
+
+## RAG Flow Diagram (Core of your project)
+<img width="976" height="207" alt="diagram-export-3-18-2026-5_41_03-PM" src="https://github.com/user-attachments/assets/13674cbe-0a38-4c9a-b7aa-74fade5fce1f" />
+<img width="610" height="329" alt="diagram-export-3-18-2026-5_43_35-PM" src="https://github.com/user-attachments/assets/34a96117-7c44-4d08-9214-9dd716edcd3f" />
+
+
 ### Document Processing
+
 1. Upload a PDF  
 2. Extract and split the content into smaller chunks  
 3. Convert each chunk into vector embeddings  
