@@ -1,0 +1,73 @@
+Country,State,Year,Residence Type,Period From July 2015,Period To June 2016,"Estimated Number Of Workers In Manufacturing (UOM:Number), Scaling Factor:1","Estimated Number Of Workers In Trading (UOM:Number), Scaling Factor:1","Estimated Number Of Workers In Other Services (UOM:Number), Scaling Factor:1","Estimated Number Of Workers In All Sectors (UOM:Number), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,2648,5395,4490,12532
+India,Andaman And Nicobar Islands,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,3331,11153,11875,26359
+India,Andhra Pradesh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,1093383,811004,1035535,2942123
+India,Andhra Pradesh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,855257,763707,1058016,2676980
+India,Arunachal Pradesh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,836,12704,3988,17528
+India,Arunachal Pradesh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,1271,13930,8339,23540
+India,Assam,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,304261,554389,303147,1161797
+India,Assam,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,81688,343087,228991,653766
+India,Bihar,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,830877,1334761,1140288,3309221
+India,Bihar,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,386122,844868,766338,1997681
+India,Chandigarh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,606,1147,656,2409
+India,Chandigarh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,21877,44443,60393,126713
+India,Chhattisgarh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,270063,438599,198211,906873
+India,Chhattisgarh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,151272,350155,279163,780590
+India,Delhi,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,2771,5061,4505,12337
+India,Delhi,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,708815,841652,737921,2288609
+India,Goa,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,4407,13115,13087,30609
+India,Goa,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,24762,55417,49563,129743
+India,Gujarat,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,477283,549709,586779,1613771
+India,Gujarat,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,2168120,1246227,1089962,4504309
+India,Haryana,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,188345,217059,257589,662993
+India,Haryana,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,230060,519103,499482,1248645
+India,Himachal Pradesh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,115103,118471,242653,476227
+India,Himachal Pradesh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,25193,65213,81530,171936
+India,Jammu And Kashmir,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,195363.35753369753204970392,113952.35444477997090029824,135240.28571773684354963056,444555.99769621434649963272
+India,Jammu And Kashmir,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,135812.91603184395390763699,309917.51149321836328578762,176999.35058903508695346795,622729.77811409740414689256
+India,Jharkhand,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,640162,627382,562506,1830050
+India,Jharkhand,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,113874,300479,258761,673114
+India,Karnataka,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,1042215,838524,763612,2644351
+India,Karnataka,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,1134117,1788861,1577842,4500819
+India,Kerala,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,492009,540781,804480,1837271
+India,Kerala,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,519564,905662,1229244,2654471
+India,Ladakh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,4662.64246630246795029608,2719.64555522002909970176,3227.71428226315645036944,10610.00230378565350036728
+India,Ladakh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,2498.08396815604609236301,5700.48850678163671421238,3255.64941096491304653205,11454.22188590259585310744
+India,Lakshadweep,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,57,111,106,274
+India,Lakshadweep,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,952,910,630,2492
+India,Madhya Pradesh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,865418,718612,626441,2210471
+India,Madhya Pradesh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,588532,1083586,1042234,2714353
+India,Maharashtra,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,913777,1149142,852346,2915265
+India,Maharashtra,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,1579340,2366947,2261654,6207942
+India,Manipur,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,58031,53214,51481,162727
+India,Manipur,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,31801,58650,39034,129485
+India,Meghalaya,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,21667,60373,42628,124667
+India,Meghalaya,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,6967,35174,23739,65880
+India,Mizoram,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,5094,6917,5136,17147
+India,Mizoram,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,7298,22997,14918,45213
+India,Nagaland,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,15843,17163,19153,52158
+India,Nagaland,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,12937,71915,39623,124475
+India,Odisha,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,693060,898215,773358,2364633
+India,Odisha,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,153992,430071,377126,961666
+India,Puducherry,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,7881,10168,13101,31150
+India,Puducherry,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,38582,42949,71208,152739
+India,Punjab,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,238451,304419,285657,828527
+India,Punjab,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,448424,657886,544705,1651015
+India,Rajasthan,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,538326,703160,733839,1975325
+India,Rajasthan,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,801561,885163,990079,2676803
+India,Sikkim,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,1794,10849,9249,21891
+India,Sikkim,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,1549,8628,12640,22818
+India,Tamil Nadu,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,1168602,712899,849027,2730528
+India,Tamil Nadu,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,2234498,2184285,2532943,6951726
+India,Telangana,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,764778,397778,397322,1559878
+India,Telangana,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,727754,820499,917606,2465860
+India,The Dadra And Nagar Haveli And Daman And Diu,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,4064.00000000000000000000,7321.00000000000000000000,5083.00000000000000000000,16469.00000000000000000000
+India,The Dadra And Nagar Haveli And Daman And Diu,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,9756.00000000000000000000,14199.00000000000000000000,10342.00000000000000000000,34298.00000000000000000000
+India,Tripura,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,45103,53257,41120,139479
+India,Tripura,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,30977,74605,49847,155524
+India,Uttar Pradesh,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,2626541,3022992,2675874,8325548
+India,Uttar Pradesh,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,2082384,3710233,2419520,8212137
+India,Uttarakhand,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,77245,103070,137830,318144
+India,Uttarakhand,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,50106,169022,122675,341803
+India,West Bengal,"Agriculture Year (Jul - Jun), 2015",Rural, July-2015, June-2016,4944880,1649847,1563006,8157734
+India,West Bengal,"Agriculture Year (Jul - Jun), 2015",Urban, July-2015, June-2016,2014667,1626044,1754649,5395865

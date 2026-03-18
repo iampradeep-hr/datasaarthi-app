@@ -1,0 +1,487 @@
+Country,Year,Gender,State Name ,Type Of Area,"Percentage Of Unemployment Rate (Ur)  (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2023",Female,All India,Rural,2.0
+India,"Financial Year (Apr - Mar), 2023",Male,All India,Rural,3.0
+India,"Financial Year (Apr - Mar), 2023",Total,All India,Rural,2.7
+India,"Financial Year (Apr - Mar), 2023",Female,All India,Total,3.2
+India,"Financial Year (Apr - Mar), 2023",Male,All India,Total,3.6
+India,"Financial Year (Apr - Mar), 2023",Total,All India,Total,3.4
+India,"Financial Year (Apr - Mar), 2023",Female,All India,Urban,7.9
+India,"Financial Year (Apr - Mar), 2023",Male,All India,Urban,5.0
+India,"Financial Year (Apr - Mar), 2023",Total,All India,Urban,5.7
+India,"Financial Year (Apr - Mar), 2023",Female,Arunachal  Pradesh,Rural,3.2
+India,"Financial Year (Apr - Mar), 2023",Male,Arunachal  Pradesh,Rural,4.8
+India,"Financial Year (Apr - Mar), 2023",Total,Arunachal  Pradesh,Rural,4.1
+India,"Financial Year (Apr - Mar), 2023",Female,Arunachal  Pradesh,Total,4.7
+India,"Financial Year (Apr - Mar), 2023",Male,Arunachal  Pradesh,Total,5.3
+India,"Financial Year (Apr - Mar), 2023",Total,Arunachal  Pradesh,Total,5.1
+India,"Financial Year (Apr - Mar), 2023",Female,Arunachal  Pradesh,Urban,17.2
+India,"Financial Year (Apr - Mar), 2023",Male,Arunachal  Pradesh,Urban,8.1
+India,"Financial Year (Apr - Mar), 2023",Total,Arunachal  Pradesh,Urban,11.2
+India,"Financial Year (Apr - Mar), 2023",Female,Assam,Rural,2.8
+India,"Financial Year (Apr - Mar), 2023",Male,Assam,Rural,1.3
+India,"Financial Year (Apr - Mar), 2023",Total,Assam,Rural,1.5
+India,"Financial Year (Apr - Mar), 2023",Female,Assam,Total,3.5
+India,"Financial Year (Apr - Mar), 2023",Male,Assam,Total,1.3
+India,"Financial Year (Apr - Mar), 2023",Total,Assam,Total,1.7
+India,"Financial Year (Apr - Mar), 2023",Female,Assam,Urban,13.2
+India,"Financial Year (Apr - Mar), 2023",Male,Assam,Urban,3.8
+India,"Financial Year (Apr - Mar), 2023",Total,Assam,Urban,6.5
+India,"Financial Year (Apr - Mar), 2023",Female,Manipur,Rural,5.2
+India,"Financial Year (Apr - Mar), 2023",Male,Manipur,Rural,4.7
+India,"Financial Year (Apr - Mar), 2023",Total,Manipur,Rural,4.8
+India,"Financial Year (Apr - Mar), 2023",Female,Manipur,Total,4.7
+India,"Financial Year (Apr - Mar), 2023",Male,Manipur,Total,5.2
+India,"Financial Year (Apr - Mar), 2023",Total,Manipur,Total,5.0
+India,"Financial Year (Apr - Mar), 2023",Female,Manipur,Urban,3.8
+India,"Financial Year (Apr - Mar), 2023",Male,Manipur,Urban,6.5
+India,"Financial Year (Apr - Mar), 2023",Total,Manipur,Urban,5.6
+India,"Financial Year (Apr - Mar), 2023",Female,Meghalaya,Rural,6.9
+India,"Financial Year (Apr - Mar), 2023",Male,Meghalaya,Rural,3.6
+India,"Financial Year (Apr - Mar), 2023",Total,Meghalaya,Rural,5.1
+India,"Financial Year (Apr - Mar), 2023",Female,Meghalaya,Total,8.4
+India,"Financial Year (Apr - Mar), 2023",Male,Meghalaya,Total,4.4
+India,"Financial Year (Apr - Mar), 2023",Total,Meghalaya,Total,6.2
+India,"Financial Year (Apr - Mar), 2023",Female,Meghalaya,Urban,18.3
+India,"Financial Year (Apr - Mar), 2023",Male,Meghalaya,Urban,8.6
+India,"Financial Year (Apr - Mar), 2023",Total,Meghalaya,Urban,12.7
+India,"Financial Year (Apr - Mar), 2023",Female,Mizoram,Rural,1.5
+India,"Financial Year (Apr - Mar), 2023",Male,Mizoram,Rural,1.0
+India,"Financial Year (Apr - Mar), 2023",Total,Mizoram,Rural,1.2
+India,"Financial Year (Apr - Mar), 2023",Female,Mizoram,Total,3.1
+India,"Financial Year (Apr - Mar), 2023",Male,Mizoram,Total,1.8
+India,"Financial Year (Apr - Mar), 2023",Total,Mizoram,Total,2.3
+India,"Financial Year (Apr - Mar), 2023",Female,Mizoram,Urban,5.1
+India,"Financial Year (Apr - Mar), 2023",Male,Mizoram,Urban,2.7
+India,"Financial Year (Apr - Mar), 2023",Total,Mizoram,Urban,3.7
+India,"Financial Year (Apr - Mar), 2023",Female,Nagaland,Rural,2.2
+India,"Financial Year (Apr - Mar), 2023",Male,Nagaland,Rural,3.9
+India,"Financial Year (Apr - Mar), 2023",Total,Nagaland,Rural,3.2
+India,"Financial Year (Apr - Mar), 2023",Female,Nagaland,Total,3.8
+India,"Financial Year (Apr - Mar), 2023",Male,Nagaland,Total,5.2
+India,"Financial Year (Apr - Mar), 2023",Total,Nagaland,Total,4.6
+India,"Financial Year (Apr - Mar), 2023",Female,Nagaland,Urban,9.2
+India,"Financial Year (Apr - Mar), 2023",Male,Nagaland,Urban,8.9
+India,"Financial Year (Apr - Mar), 2023",Total,Nagaland,Urban,9.0
+India,"Financial Year (Apr - Mar), 2023",Female,Sikkim,Rural,3.3
+India,"Financial Year (Apr - Mar), 2023",Male,Sikkim,Rural,1.6
+India,"Financial Year (Apr - Mar), 2023",Total,Sikkim,Rural,2.4
+India,"Financial Year (Apr - Mar), 2023",Female,Sikkim,Total,3.4
+India,"Financial Year (Apr - Mar), 2023",Male,Sikkim,Total,1.6
+India,"Financial Year (Apr - Mar), 2023",Total,Sikkim,Total,2.4
+India,"Financial Year (Apr - Mar), 2023",Female,Sikkim,Urban,3.9
+India,"Financial Year (Apr - Mar), 2023",Male,Sikkim,Urban,1.7
+India,"Financial Year (Apr - Mar), 2023",Total,Sikkim,Urban,2.3
+India,"Financial Year (Apr - Mar), 2023",Female,Tripura,Rural,0.7
+India,"Financial Year (Apr - Mar), 2023",Male,Tripura,Rural,1.5
+India,"Financial Year (Apr - Mar), 2023",Total,Tripura,Rural,1.2
+India,"Financial Year (Apr - Mar), 2023",Female,Tripura,Total,1.2
+India,"Financial Year (Apr - Mar), 2023",Male,Tripura,Total,1.7
+India,"Financial Year (Apr - Mar), 2023",Total,Tripura,Total,1.5
+India,"Financial Year (Apr - Mar), 2023",Female,Tripura,Urban,4.0
+India,"Financial Year (Apr - Mar), 2023",Male,Tripura,Urban,2.9
+India,"Financial Year (Apr - Mar), 2023",Total,Tripura,Urban,3.2
+India,"Financial Year (Apr - Mar), 2022",Female,All India,Rural,2.2
+India,"Financial Year (Apr - Mar), 2022",Male,All India,Rural,4.3
+India,"Financial Year (Apr - Mar), 2022",Total,All India,Rural,3.6
+India,"Financial Year (Apr - Mar), 2022",Female,All India,Total,3.7
+India,"Financial Year (Apr - Mar), 2022",Male,All India,Total,4.9
+India,"Financial Year (Apr - Mar), 2022",Total,All India,Total,4.6
+India,"Financial Year (Apr - Mar), 2022",Female,All India,Urban,9.1
+India,"Financial Year (Apr - Mar), 2022",Male,All India,Urban,6.4
+India,"Financial Year (Apr - Mar), 2022",Total,All India,Urban,7.1
+India,"Financial Year (Apr - Mar), 2022",Female,Arunachal Pradesh,Rural,8.6
+India,"Financial Year (Apr - Mar), 2022",Male,Arunachal Pradesh,Rural,3.7
+India,"Financial Year (Apr - Mar), 2022",Total,Arunachal Pradesh,Rural,4.9
+India,"Financial Year (Apr - Mar), 2022",Female,Arunachal Pradesh,Total,9.5
+India,"Financial Year (Apr - Mar), 2022",Male,Arunachal Pradesh,Total,4.7
+India,"Financial Year (Apr - Mar), 2022",Total,Arunachal Pradesh,Total,6.0
+India,"Financial Year (Apr - Mar), 2022",Female,Arunachal Pradesh,Urban,14.3
+India,"Financial Year (Apr - Mar), 2022",Male,Arunachal Pradesh,Urban,9.7
+India,"Financial Year (Apr - Mar), 2022",Total,Arunachal Pradesh,Urban,10.9
+India,"Financial Year (Apr - Mar), 2022",Female,Assam,Rural,5.9
+India,"Financial Year (Apr - Mar), 2022",Male,Assam,Rural,3.2
+India,"Financial Year (Apr - Mar), 2022",Total,Assam,Rural,3.8
+India,"Financial Year (Apr - Mar), 2022",Female,Assam,Total,7.1
+India,"Financial Year (Apr - Mar), 2022",Male,Assam,Total,3.5
+India,"Financial Year (Apr - Mar), 2022",Total,Assam,Total,4.3
+India,"Financial Year (Apr - Mar), 2022",Female,Assam,Urban,17.3
+India,"Financial Year (Apr - Mar), 2022",Male,Assam,Urban,5.8
+India,"Financial Year (Apr - Mar), 2022",Total,Assam,Urban,8.2
+India,"Financial Year (Apr - Mar), 2022",Female,Manipur,Rural,3.9
+India,"Financial Year (Apr - Mar), 2022",Male,Manipur,Rural,4.0
+India,"Financial Year (Apr - Mar), 2022",Total,Manipur,Rural,4.0
+India,"Financial Year (Apr - Mar), 2022",Female,Manipur,Total,6.1
+India,"Financial Year (Apr - Mar), 2022",Male,Manipur,Total,5.9
+India,"Financial Year (Apr - Mar), 2022",Total,Manipur,Total,5.9
+India,"Financial Year (Apr - Mar), 2022",Female,Manipur,Urban,10.1
+India,"Financial Year (Apr - Mar), 2022",Male,Manipur,Urban,10.5
+India,"Financial Year (Apr - Mar), 2022",Total,Manipur,Urban,10.4
+India,"Financial Year (Apr - Mar), 2022",Female,Meghalaya,Rural,0.6
+India,"Financial Year (Apr - Mar), 2022",Male,Meghalaya,Rural,0.8
+India,"Financial Year (Apr - Mar), 2022",Total,Meghalaya,Rural,0.7
+India,"Financial Year (Apr - Mar), 2022",Female,Meghalaya,Total,2.1
+India,"Financial Year (Apr - Mar), 2022",Male,Meghalaya,Total,1.6
+India,"Financial Year (Apr - Mar), 2022",Total,Meghalaya,Total,1.8
+India,"Financial Year (Apr - Mar), 2022",Female,Meghalaya,Urban,11.3
+India,"Financial Year (Apr - Mar), 2022",Male,Meghalaya,Urban,5.0
+India,"Financial Year (Apr - Mar), 2022",Total,Meghalaya,Urban,7.3
+India,"Financial Year (Apr - Mar), 2022",Female,Mizoram,Rural,3.6
+India,"Financial Year (Apr - Mar), 2022",Male,Mizoram,Rural,2.8
+India,"Financial Year (Apr - Mar), 2022",Total,Mizoram,Rural,3.1
+India,"Financial Year (Apr - Mar), 2022",Female,Mizoram,Total,3.9
+India,"Financial Year (Apr - Mar), 2022",Male,Mizoram,Total,3.7
+India,"Financial Year (Apr - Mar), 2022",Total,Mizoram,Total,3.8
+India,"Financial Year (Apr - Mar), 2022",Female,Mizoram,Urban,4.3
+India,"Financial Year (Apr - Mar), 2022",Male,Mizoram,Urban,4.8
+India,"Financial Year (Apr - Mar), 2022",Total,Mizoram,Urban,4.6
+India,"Financial Year (Apr - Mar), 2022",Female,Nagaland,Rural,17.6
+India,"Financial Year (Apr - Mar), 2022",Male,Nagaland,Rural,20.7
+India,"Financial Year (Apr - Mar), 2022",Total,Nagaland,Rural,19.4
+India,"Financial Year (Apr - Mar), 2022",Female,Nagaland,Total,20.8
+India,"Financial Year (Apr - Mar), 2022",Male,Nagaland,Total,20.8
+India,"Financial Year (Apr - Mar), 2022",Total,Nagaland,Total,20.8
+India,"Financial Year (Apr - Mar), 2022",Female,Nagaland,Urban,33.8
+India,"Financial Year (Apr - Mar), 2022",Male,Nagaland,Urban,21.2
+India,"Financial Year (Apr - Mar), 2022",Total,Nagaland,Urban,25.0
+India,"Financial Year (Apr - Mar), 2022",Female,Sikkim,Rural,0.4
+India,"Financial Year (Apr - Mar), 2022",Male,Sikkim,Rural,0.8
+India,"Financial Year (Apr - Mar), 2022",Total,Sikkim,Rural,0.6
+India,"Financial Year (Apr - Mar), 2022",Female,Sikkim,Total,0.9
+India,"Financial Year (Apr - Mar), 2022",Male,Sikkim,Total,1.4
+India,"Financial Year (Apr - Mar), 2022",Total,Sikkim,Total,1.2
+India,"Financial Year (Apr - Mar), 2022",Female,Sikkim,Urban,3.6
+India,"Financial Year (Apr - Mar), 2022",Male,Sikkim,Urban,2.9
+India,"Financial Year (Apr - Mar), 2022",Total,Sikkim,Urban,3.1
+India,"Financial Year (Apr - Mar), 2022",Female,Tripura,Rural,2.5
+India,"Financial Year (Apr - Mar), 2022",Male,Tripura,Rural,3.6
+India,"Financial Year (Apr - Mar), 2022",Total,Tripura,Rural,3.3
+India,"Financial Year (Apr - Mar), 2022",Female,Tripura,Total,3.1
+India,"Financial Year (Apr - Mar), 2022",Male,Tripura,Total,3.8
+India,"Financial Year (Apr - Mar), 2022",Total,Tripura,Total,3.6
+India,"Financial Year (Apr - Mar), 2022",Female,Tripura,Urban,6.0
+India,"Financial Year (Apr - Mar), 2022",Male,Tripura,Urban,4.6
+India,"Financial Year (Apr - Mar), 2022",Total,Tripura,Urban,5.0
+India,"Financial Year (Apr - Mar), 2021",Female,All India,Rural,2.8
+India,"Financial Year (Apr - Mar), 2021",Male,All India,Rural,5.0
+India,"Financial Year (Apr - Mar), 2021",Total,All India,Rural,4.3
+India,"Financial Year (Apr - Mar), 2021",Female,All India,Total,4.5
+India,"Financial Year (Apr - Mar), 2021",Male,All India,Total,5.5
+India,"Financial Year (Apr - Mar), 2021",Total,All India,Total,5.2
+India,"Financial Year (Apr - Mar), 2021",Female,All India,Urban,9.4
+India,"Financial Year (Apr - Mar), 2021",Male,All India,Urban,6.8
+India,"Financial Year (Apr - Mar), 2021",Total,All India,Urban,7.4
+India,"Financial Year (Apr - Mar), 2021",Female,Arunachal  Pradesh,Rural,9.3
+India,"Financial Year (Apr - Mar), 2021",Male,Arunachal  Pradesh,Rural,5.8
+India,"Financial Year (Apr - Mar), 2021",Total,Arunachal  Pradesh,Rural,6.6
+India,"Financial Year (Apr - Mar), 2021",Female,Arunachal  Pradesh,Total,9.6
+India,"Financial Year (Apr - Mar), 2021",Male,Arunachal  Pradesh,Total,6.3
+India,"Financial Year (Apr - Mar), 2021",Total,Arunachal  Pradesh,Total,7.0
+India,"Financial Year (Apr - Mar), 2021",Female,Arunachal  Pradesh,Urban,11.5
+India,"Financial Year (Apr - Mar), 2021",Male,Arunachal  Pradesh,Urban,8.5
+India,"Financial Year (Apr - Mar), 2021",Total,Arunachal  Pradesh,Urban,9.1
+India,"Financial Year (Apr - Mar), 2021",Female,Assam,Rural,13.5
+India,"Financial Year (Apr - Mar), 2021",Male,Assam,Rural,7.1
+India,"Financial Year (Apr - Mar), 2021",Total,Assam,Rural,8.2
+India,"Financial Year (Apr - Mar), 2021",Female,Assam,Total,14.3
+India,"Financial Year (Apr - Mar), 2021",Male,Assam,Total,7.1
+India,"Financial Year (Apr - Mar), 2021",Total,Assam,Total,8.3
+India,"Financial Year (Apr - Mar), 2021",Female,Assam,Urban,18.6
+India,"Financial Year (Apr - Mar), 2021",Male,Assam,Urban,6.5
+India,"Financial Year (Apr - Mar), 2021",Total,Assam,Urban,9.0
+India,"Financial Year (Apr - Mar), 2021",Female,Manipur,Rural,12.1
+India,"Financial Year (Apr - Mar), 2021",Male,Manipur,Rural,8.9
+India,"Financial Year (Apr - Mar), 2021",Total,Manipur,Rural,9.8
+India,"Financial Year (Apr - Mar), 2021",Female,Manipur,Total,11.2
+India,"Financial Year (Apr - Mar), 2021",Male,Manipur,Total,9.7
+India,"Financial Year (Apr - Mar), 2021",Total,Manipur,Total,10.1
+India,"Financial Year (Apr - Mar), 2021",Female,Manipur,Urban,9.4
+India,"Financial Year (Apr - Mar), 2021",Male,Manipur,Urban,11.9
+India,"Financial Year (Apr - Mar), 2021",Total,Manipur,Urban,11.0
+India,"Financial Year (Apr - Mar), 2021",Female,Meghalaya,Rural,1.5
+India,"Financial Year (Apr - Mar), 2021",Male,Meghalaya,Rural,1.0
+India,"Financial Year (Apr - Mar), 2021",Total,Meghalaya,Rural,1.2
+India,"Financial Year (Apr - Mar), 2021",Female,Meghalaya,Total,3.7
+India,"Financial Year (Apr - Mar), 2021",Male,Meghalaya,Total,2.2
+India,"Financial Year (Apr - Mar), 2021",Total,Meghalaya,Total,2.8
+India,"Financial Year (Apr - Mar), 2021",Female,Meghalaya,Urban,18.6
+India,"Financial Year (Apr - Mar), 2021",Male,Meghalaya,Urban,7.9
+India,"Financial Year (Apr - Mar), 2021",Total,Meghalaya,Urban,11.3
+India,"Financial Year (Apr - Mar), 2021",Female,Mizoram,Rural,2.9
+India,"Financial Year (Apr - Mar), 2021",Male,Mizoram,Rural,5.0
+India,"Financial Year (Apr - Mar), 2021",Total,Mizoram,Rural,4.4
+India,"Financial Year (Apr - Mar), 2021",Female,Mizoram,Total,5.9
+India,"Financial Year (Apr - Mar), 2021",Male,Mizoram,Total,6.0
+India,"Financial Year (Apr - Mar), 2021",Total,Mizoram,Total,6.0
+India,"Financial Year (Apr - Mar), 2021",Female,Mizoram,Urban,9.1
+India,"Financial Year (Apr - Mar), 2021",Male,Mizoram,Urban,7.3
+India,"Financial Year (Apr - Mar), 2021",Total,Mizoram,Urban,8.0
+India,"Financial Year (Apr - Mar), 2021",Female,Nagaland,Rural,29.8
+India,"Financial Year (Apr - Mar), 2021",Male,Nagaland,Rural,27.5
+India,"Financial Year (Apr - Mar), 2021",Total,Nagaland,Rural,28.3
+India,"Financial Year (Apr - Mar), 2021",Female,Nagaland,Total,30.1
+India,"Financial Year (Apr - Mar), 2021",Male,Nagaland,Total,26.7
+India,"Financial Year (Apr - Mar), 2021",Total,Nagaland,Total,27.8
+India,"Financial Year (Apr - Mar), 2021",Female,Nagaland,Urban,31.1
+India,"Financial Year (Apr - Mar), 2021",Male,Nagaland,Urban,24.6
+India,"Financial Year (Apr - Mar), 2021",Total,Nagaland,Urban,26.6
+India,"Financial Year (Apr - Mar), 2021",Female,Sikkim,Rural,1.5
+India,"Financial Year (Apr - Mar), 2021",Male,Sikkim,Rural,2.8
+India,"Financial Year (Apr - Mar), 2021",Total,Sikkim,Rural,2.3
+India,"Financial Year (Apr - Mar), 2021",Female,Sikkim,Total,1.8
+India,"Financial Year (Apr - Mar), 2021",Male,Sikkim,Total,2.9
+India,"Financial Year (Apr - Mar), 2021",Total,Sikkim,Total,2.4
+India,"Financial Year (Apr - Mar), 2021",Female,Sikkim,Urban,3.0
+India,"Financial Year (Apr - Mar), 2021",Male,Sikkim,Urban,2.9
+India,"Financial Year (Apr - Mar), 2021",Total,Sikkim,Urban,3.0
+India,"Financial Year (Apr - Mar), 2021",Female,Tripura,Rural,2.6
+India,"Financial Year (Apr - Mar), 2021",Male,Tripura,Rural,3.3
+India,"Financial Year (Apr - Mar), 2021",Total,Tripura,Rural,3.1
+India,"Financial Year (Apr - Mar), 2021",Female,Tripura,Total,2.9
+India,"Financial Year (Apr - Mar), 2021",Male,Tripura,Total,3.6
+India,"Financial Year (Apr - Mar), 2021",Total,Tripura,Total,3.5
+India,"Financial Year (Apr - Mar), 2021",Female,Tripura,Urban,4.5
+India,"Financial Year (Apr - Mar), 2021",Male,Tripura,Urban,5.1
+India,"Financial Year (Apr - Mar), 2021",Total,Tripura,Urban,4.9
+India,"Financial Year (Apr - Mar), 2020",Female,All India,Rural,3.8
+India,"Financial Year (Apr - Mar), 2020",Male,All India,Rural,6.0
+India,"Financial Year (Apr - Mar), 2020",Total,All India,Rural,5.4
+India,"Financial Year (Apr - Mar), 2020",Female,All India,Total,5.5
+India,"Financial Year (Apr - Mar), 2020",Male,All India,Total,6.5
+India,"Financial Year (Apr - Mar), 2020",Total,All India,Total,6.2
+India,"Financial Year (Apr - Mar), 2020",Female,All India,Urban,10.3
+India,"Financial Year (Apr - Mar), 2020",Male,All India,Urban,7.4
+India,"Financial Year (Apr - Mar), 2020",Total,All India,Urban,8.0
+India,"Financial Year (Apr - Mar), 2020",Female,Arunachal  Pradesh,Rural,12.3
+India,"Financial Year (Apr - Mar), 2020",Male,Arunachal  Pradesh,Rural,6.0
+India,"Financial Year (Apr - Mar), 2020",Total,Arunachal  Pradesh,Rural,7.1
+India,"Financial Year (Apr - Mar), 2020",Female,Arunachal  Pradesh,Total,14.9
+India,"Financial Year (Apr - Mar), 2020",Male,Arunachal  Pradesh,Total,6.2
+India,"Financial Year (Apr - Mar), 2020",Total,Arunachal  Pradesh,Total,7.7
+India,"Financial Year (Apr - Mar), 2020",Female,Arunachal  Pradesh,Urban,28.9
+India,"Financial Year (Apr - Mar), 2020",Male,Arunachal  Pradesh,Urban,7.6
+India,"Financial Year (Apr - Mar), 2020",Total,Arunachal  Pradesh,Urban,11.3
+India,"Financial Year (Apr - Mar), 2020",Female,Assam,Rural,7.2
+India,"Financial Year (Apr - Mar), 2020",Male,Assam,Rural,6.5
+India,"Financial Year (Apr - Mar), 2020",Total,Assam,Rural,6.6
+India,"Financial Year (Apr - Mar), 2020",Female,Assam,Total,8.2
+India,"Financial Year (Apr - Mar), 2020",Male,Assam,Total,6.9
+India,"Financial Year (Apr - Mar), 2020",Total,Assam,Total,7.1
+India,"Financial Year (Apr - Mar), 2020",Female,Assam,Urban,15.6
+India,"Financial Year (Apr - Mar), 2020",Male,Assam,Urban,10.3
+India,"Financial Year (Apr - Mar), 2020",Total,Assam,Urban,11.1
+India,"Financial Year (Apr - Mar), 2020",Female,Manipur,Rural,16.5
+India,"Financial Year (Apr - Mar), 2020",Male,Manipur,Rural,7.9
+India,"Financial Year (Apr - Mar), 2020",Total,Manipur,Rural,10.2
+India,"Financial Year (Apr - Mar), 2020",Female,Manipur,Total,13.9
+India,"Financial Year (Apr - Mar), 2020",Male,Manipur,Total,8.7
+India,"Financial Year (Apr - Mar), 2020",Total,Manipur,Total,10.1
+India,"Financial Year (Apr - Mar), 2020",Female,Manipur,Urban,8.0
+India,"Financial Year (Apr - Mar), 2020",Male,Manipur,Urban,10.5
+India,"Financial Year (Apr - Mar), 2020",Total,Manipur,Urban,9.7
+India,"Financial Year (Apr - Mar), 2020",Female,Meghalaya,Rural,2.2
+India,"Financial Year (Apr - Mar), 2020",Male,Meghalaya,Rural,2.0
+India,"Financial Year (Apr - Mar), 2020",Total,Meghalaya,Rural,2.1
+India,"Financial Year (Apr - Mar), 2020",Female,Meghalaya,Total,3.4
+India,"Financial Year (Apr - Mar), 2020",Male,Meghalaya,Total,2.4
+India,"Financial Year (Apr - Mar), 2020",Total,Meghalaya,Total,2.8
+India,"Financial Year (Apr - Mar), 2020",Female,Meghalaya,Urban,14.0
+India,"Financial Year (Apr - Mar), 2020",Male,Meghalaya,Urban,4.8
+India,"Financial Year (Apr - Mar), 2020",Total,Meghalaya,Urban,7.9
+India,"Financial Year (Apr - Mar), 2020",Female,Mizoram,Rural,8.3
+India,"Financial Year (Apr - Mar), 2020",Male,Mizoram,Rural,4.4
+India,"Financial Year (Apr - Mar), 2020",Total,Mizoram,Rural,5.4
+India,"Financial Year (Apr - Mar), 2020",Female,Mizoram,Total,10.8
+India,"Financial Year (Apr - Mar), 2020",Male,Mizoram,Total,5.8
+India,"Financial Year (Apr - Mar), 2020",Total,Mizoram,Total,7.3
+India,"Financial Year (Apr - Mar), 2020",Female,Mizoram,Urban,13.2
+India,"Financial Year (Apr - Mar), 2020",Male,Mizoram,Urban,7.7
+India,"Financial Year (Apr - Mar), 2020",Total,Mizoram,Urban,9.5
+India,"Financial Year (Apr - Mar), 2020",Female,Nagaland,Rural,23.5
+India,"Financial Year (Apr - Mar), 2020",Male,Nagaland,Rural,15.5
+India,"Financial Year (Apr - Mar), 2020",Total,Nagaland,Rural,17.5
+India,"Financial Year (Apr - Mar), 2020",Female,Nagaland,Total,27.9
+India,"Financial Year (Apr - Mar), 2020",Male,Nagaland,Total,15.5
+India,"Financial Year (Apr - Mar), 2020",Total,Nagaland,Total,18.5
+India,"Financial Year (Apr - Mar), 2020",Female,Nagaland,Urban,42.3
+India,"Financial Year (Apr - Mar), 2020",Male,Nagaland,Urban,15.5
+India,"Financial Year (Apr - Mar), 2020",Total,Nagaland,Urban,21.0
+India,"Financial Year (Apr - Mar), 2020",Female,Sikkim,Rural,1.9
+India,"Financial Year (Apr - Mar), 2020",Male,Sikkim,Rural,3.2
+India,"Financial Year (Apr - Mar), 2020",Total,Sikkim,Rural,2.7
+India,"Financial Year (Apr - Mar), 2020",Female,Sikkim,Total,3.0
+India,"Financial Year (Apr - Mar), 2020",Male,Sikkim,Total,3.4
+India,"Financial Year (Apr - Mar), 2020",Total,Sikkim,Total,3.3
+India,"Financial Year (Apr - Mar), 2020",Female,Sikkim,Urban,7.7
+India,"Financial Year (Apr - Mar), 2020",Male,Sikkim,Urban,4.0
+India,"Financial Year (Apr - Mar), 2020",Total,Sikkim,Urban,5.0
+India,"Financial Year (Apr - Mar), 2020",Female,Tripura,Rural,29.1
+India,"Financial Year (Apr - Mar), 2020",Male,Tripura,Rural,5.8
+India,"Financial Year (Apr - Mar), 2020",Total,Tripura,Rural,9.8
+India,"Financial Year (Apr - Mar), 2020",Female,Tripura,Total,29.5
+India,"Financial Year (Apr - Mar), 2020",Male,Tripura,Total,6.4
+India,"Financial Year (Apr - Mar), 2020",Total,Tripura,Total,10.5
+India,"Financial Year (Apr - Mar), 2020",Female,Tripura,Urban,30.6
+India,"Financial Year (Apr - Mar), 2020",Male,Tripura,Urban,8.9
+India,"Financial Year (Apr - Mar), 2020",Total,Tripura,Urban,14.0
+India,"Financial Year (Apr - Mar), 2019",Female,All India,Rural,4
+India,"Financial Year (Apr - Mar), 2019",Male,All India,Rural,6.3
+India,"Financial Year (Apr - Mar), 2019",Total,All India,Rural,5.7
+India,"Financial Year (Apr - Mar), 2019",Female,All India,Total,6
+India,"Financial Year (Apr - Mar), 2019",Male,All India,Total,6.6
+India,"Financial Year (Apr - Mar), 2019",Total,All India,Total,6.5
+India,"Financial Year (Apr - Mar), 2019",Female,All India,Urban,11.3
+India,"Financial Year (Apr - Mar), 2019",Male,All India,Urban,7.3
+India,"Financial Year (Apr - Mar), 2019",Total,All India,Urban,8.2
+India,"Financial Year (Apr - Mar), 2019",Female,Arunachal  Pradesh,Rural,10.3
+India,"Financial Year (Apr - Mar), 2019",Male,Arunachal  Pradesh,Rural,4.5
+India,"Financial Year (Apr - Mar), 2019",Total,Arunachal  Pradesh,Rural,5.4
+India,"Financial Year (Apr - Mar), 2019",Female,Arunachal  Pradesh,Total,11.7
+India,"Financial Year (Apr - Mar), 2019",Male,Arunachal  Pradesh,Total,5
+India,"Financial Year (Apr - Mar), 2019",Total,Arunachal  Pradesh,Total,6
+India,"Financial Year (Apr - Mar), 2019",Female,Arunachal  Pradesh,Urban,20.6
+India,"Financial Year (Apr - Mar), 2019",Male,Arunachal  Pradesh,Urban,8
+India,"Financial Year (Apr - Mar), 2019",Total,Arunachal  Pradesh,Urban,9.7
+India,"Financial Year (Apr - Mar), 2019",Female,Assam,Rural,14.1
+India,"Financial Year (Apr - Mar), 2019",Male,Assam,Rural,7.8
+India,"Financial Year (Apr - Mar), 2019",Total,Assam,Rural,8.6
+India,"Financial Year (Apr - Mar), 2019",Female,Assam,Total,13.8
+India,"Financial Year (Apr - Mar), 2019",Male,Assam,Total,7.6
+India,"Financial Year (Apr - Mar), 2019",Total,Assam,Total,8.4
+India,"Financial Year (Apr - Mar), 2019",Female,Assam,Urban,11.8
+India,"Financial Year (Apr - Mar), 2019",Male,Assam,Urban,5.6
+India,"Financial Year (Apr - Mar), 2019",Total,Assam,Urban,6.7
+India,"Financial Year (Apr - Mar), 2019",Female,Manipur,Rural,17.9
+India,"Financial Year (Apr - Mar), 2019",Male,Manipur,Rural,10.6
+India,"Financial Year (Apr - Mar), 2019",Total,Manipur,Rural,12.2
+India,"Financial Year (Apr - Mar), 2019",Female,Manipur,Total,16.5
+India,"Financial Year (Apr - Mar), 2019",Male,Manipur,Total,10.9
+India,"Financial Year (Apr - Mar), 2019",Total,Manipur,Total,12.3
+India,"Financial Year (Apr - Mar), 2019",Female,Manipur,Urban,13.5
+India,"Financial Year (Apr - Mar), 2019",Male,Manipur,Urban,11.9
+India,"Financial Year (Apr - Mar), 2019",Total,Manipur,Urban,12.4
+India,"Financial Year (Apr - Mar), 2019",Female,Meghalaya,Rural,1
+India,"Financial Year (Apr - Mar), 2019",Male,Meghalaya,Rural,0.3
+India,"Financial Year (Apr - Mar), 2019",Total,Meghalaya,Rural,0.6
+India,"Financial Year (Apr - Mar), 2019",Female,Meghalaya,Total,2
+India,"Financial Year (Apr - Mar), 2019",Male,Meghalaya,Total,1.3
+India,"Financial Year (Apr - Mar), 2019",Total,Meghalaya,Total,1.6
+India,"Financial Year (Apr - Mar), 2019",Female,Meghalaya,Urban,9
+India,"Financial Year (Apr - Mar), 2019",Male,Meghalaya,Urban,5.7
+India,"Financial Year (Apr - Mar), 2019",Total,Meghalaya,Urban,6.8
+India,"Financial Year (Apr - Mar), 2019",Female,Mizoram,Rural,8.9
+India,"Financial Year (Apr - Mar), 2019",Male,Mizoram,Rural,6.4
+India,"Financial Year (Apr - Mar), 2019",Total,Mizoram,Rural,7
+India,"Financial Year (Apr - Mar), 2019",Female,Mizoram,Total,14
+India,"Financial Year (Apr - Mar), 2019",Male,Mizoram,Total,9.4
+India,"Financial Year (Apr - Mar), 2019",Total,Mizoram,Total,10.8
+India,"Financial Year (Apr - Mar), 2019",Female,Mizoram,Urban,18.5
+India,"Financial Year (Apr - Mar), 2019",Male,Mizoram,Urban,13.3
+India,"Financial Year (Apr - Mar), 2019",Total,Mizoram,Urban,15.1
+India,"Financial Year (Apr - Mar), 2019",Female,Nagaland,Rural,34.1
+India,"Financial Year (Apr - Mar), 2019",Male,Nagaland,Rural,20.9
+India,"Financial Year (Apr - Mar), 2019",Total,Nagaland,Rural,23.4
+India,"Financial Year (Apr - Mar), 2019",Female,Nagaland,Total,35
+India,"Financial Year (Apr - Mar), 2019",Male,Nagaland,Total,19.8
+India,"Financial Year (Apr - Mar), 2019",Total,Nagaland,Total,22.9
+India,"Financial Year (Apr - Mar), 2019",Female,Nagaland,Urban,36.6
+India,"Financial Year (Apr - Mar), 2019",Male,Nagaland,Urban,17.2
+India,"Financial Year (Apr - Mar), 2019",Total,Nagaland,Urban,21.7
+India,"Financial Year (Apr - Mar), 2019",Female,Sikkim,Rural,4
+India,"Financial Year (Apr - Mar), 2019",Male,Sikkim,Rural,2.1
+India,"Financial Year (Apr - Mar), 2019",Total,Sikkim,Rural,2.8
+India,"Financial Year (Apr - Mar), 2019",Female,Sikkim,Total,5.3
+India,"Financial Year (Apr - Mar), 2019",Male,Sikkim,Total,2.8
+India,"Financial Year (Apr - Mar), 2019",Total,Sikkim,Total,3.6
+India,"Financial Year (Apr - Mar), 2019",Female,Sikkim,Urban,10
+India,"Financial Year (Apr - Mar), 2019",Male,Sikkim,Urban,4.4
+India,"Financial Year (Apr - Mar), 2019",Total,Sikkim,Urban,5.9
+India,"Financial Year (Apr - Mar), 2019",Female,Tripura,Rural,7.9
+India,"Financial Year (Apr - Mar), 2019",Male,Tripura,Rural,6.5
+India,"Financial Year (Apr - Mar), 2019",Total,Tripura,Rural,6.7
+India,"Financial Year (Apr - Mar), 2019",Female,Tripura,Total,11.7
+India,"Financial Year (Apr - Mar), 2019",Male,Tripura,Total,6.5
+India,"Financial Year (Apr - Mar), 2019",Total,Tripura,Total,7.2
+India,"Financial Year (Apr - Mar), 2019",Female,Tripura,Urban,20.4
+India,"Financial Year (Apr - Mar), 2019",Male,Tripura,Urban,6.3
+India,"Financial Year (Apr - Mar), 2019",Total,Tripura,Urban,9.2
+India,"Financial Year (Apr - Mar), 2018",Female,All India,Rural,4
+India,"Financial Year (Apr - Mar), 2018",Male,All India,Rural,6.3
+India,"Financial Year (Apr - Mar), 2018",Total,All India,Rural,5.7
+India,"Financial Year (Apr - Mar), 2018",Female,All India,Total,6
+India,"Financial Year (Apr - Mar), 2018",Male,All India,Total,6.6
+India,"Financial Year (Apr - Mar), 2018",Total,All India,Total,6.5
+India,"Financial Year (Apr - Mar), 2018",Female,All India,Urban,11.3
+India,"Financial Year (Apr - Mar), 2018",Male,All India,Urban,7.3
+India,"Financial Year (Apr - Mar), 2018",Total,All India,Urban,8.2
+India,"Financial Year (Apr - Mar), 2018",Female,Arunachal Pradesh,Rural,10.3
+India,"Financial Year (Apr - Mar), 2018",Male,Arunachal Pradesh,Rural,4.5
+India,"Financial Year (Apr - Mar), 2018",Total,Arunachal Pradesh,Rural,5.4
+India,"Financial Year (Apr - Mar), 2018",Female,Arunachal Pradesh,Total,11.7
+India,"Financial Year (Apr - Mar), 2018",Male,Arunachal Pradesh,Total,5
+India,"Financial Year (Apr - Mar), 2018",Total,Arunachal Pradesh,Total,6
+India,"Financial Year (Apr - Mar), 2018",Female,Arunachal Pradesh,Urban,20.6
+India,"Financial Year (Apr - Mar), 2018",Male,Arunachal Pradesh,Urban,8
+India,"Financial Year (Apr - Mar), 2018",Total,Arunachal Pradesh,Urban,9.7
+India,"Financial Year (Apr - Mar), 2018",Female,Assam,Rural,14.1
+India,"Financial Year (Apr - Mar), 2018",Male,Assam,Rural,7.8
+India,"Financial Year (Apr - Mar), 2018",Total,Assam,Rural,8.6
+India,"Financial Year (Apr - Mar), 2018",Female,Assam,Total,13.8
+India,"Financial Year (Apr - Mar), 2018",Male,Assam,Total,7.6
+India,"Financial Year (Apr - Mar), 2018",Total,Assam,Total,8.4
+India,"Financial Year (Apr - Mar), 2018",Female,Assam,Urban,11.8
+India,"Financial Year (Apr - Mar), 2018",Male,Assam,Urban,5.6
+India,"Financial Year (Apr - Mar), 2018",Total,Assam,Urban,6.7
+India,"Financial Year (Apr - Mar), 2018",Female,Manipur,Rural,17.9
+India,"Financial Year (Apr - Mar), 2018",Male,Manipur,Rural,10.6
+India,"Financial Year (Apr - Mar), 2018",Total,Manipur,Rural,12.2
+India,"Financial Year (Apr - Mar), 2018",Female,Manipur,Total,16.5
+India,"Financial Year (Apr - Mar), 2018",Male,Manipur,Total,10.9
+India,"Financial Year (Apr - Mar), 2018",Total,Manipur,Total,12.3
+India,"Financial Year (Apr - Mar), 2018",Female,Manipur,Urban,13.5
+India,"Financial Year (Apr - Mar), 2018",Male,Manipur,Urban,11.9
+India,"Financial Year (Apr - Mar), 2018",Total,Manipur,Urban,12.4
+India,"Financial Year (Apr - Mar), 2018",Female,Meghalaya,Rural,1
+India,"Financial Year (Apr - Mar), 2018",Male,Meghalaya,Rural,0.3
+India,"Financial Year (Apr - Mar), 2018",Total,Meghalaya,Rural,0.6
+India,"Financial Year (Apr - Mar), 2018",Female,Meghalaya,Total,2
+India,"Financial Year (Apr - Mar), 2018",Male,Meghalaya,Total,1.3
+India,"Financial Year (Apr - Mar), 2018",Total,Meghalaya,Total,1.6
+India,"Financial Year (Apr - Mar), 2018",Female,Meghalaya,Urban,9
+India,"Financial Year (Apr - Mar), 2018",Male,Meghalaya,Urban,5.7
+India,"Financial Year (Apr - Mar), 2018",Total,Meghalaya,Urban,6.8
+India,"Financial Year (Apr - Mar), 2018",Female,Mizoram,Rural,8.9
+India,"Financial Year (Apr - Mar), 2018",Male,Mizoram,Rural,6.4
+India,"Financial Year (Apr - Mar), 2018",Total,Mizoram,Rural,7
+India,"Financial Year (Apr - Mar), 2018",Female,Mizoram,Total,14
+India,"Financial Year (Apr - Mar), 2018",Male,Mizoram,Total,9.4
+India,"Financial Year (Apr - Mar), 2018",Total,Mizoram,Total,10.8
+India,"Financial Year (Apr - Mar), 2018",Female,Mizoram,Urban,18.5
+India,"Financial Year (Apr - Mar), 2018",Male,Mizoram,Urban,13.3
+India,"Financial Year (Apr - Mar), 2018",Total,Mizoram,Urban,15.1
+India,"Financial Year (Apr - Mar), 2018",Female,Nagaland,Rural,34.1
+India,"Financial Year (Apr - Mar), 2018",Male,Nagaland,Rural,20.9
+India,"Financial Year (Apr - Mar), 2018",Total,Nagaland,Rural,23.4
+India,"Financial Year (Apr - Mar), 2018",Female,Nagaland,Total,35
+India,"Financial Year (Apr - Mar), 2018",Male,Nagaland,Total,19.8
+India,"Financial Year (Apr - Mar), 2018",Total,Nagaland,Total,22.9
+India,"Financial Year (Apr - Mar), 2018",Female,Nagaland,Urban,36.6
+India,"Financial Year (Apr - Mar), 2018",Male,Nagaland,Urban,17.2
+India,"Financial Year (Apr - Mar), 2018",Total,Nagaland,Urban,21.7
+India,"Financial Year (Apr - Mar), 2018",Female,Sikkim,Rural,4
+India,"Financial Year (Apr - Mar), 2018",Male,Sikkim,Rural,2.1
+India,"Financial Year (Apr - Mar), 2018",Total,Sikkim,Rural,2.8
+India,"Financial Year (Apr - Mar), 2018",Female,Sikkim,Total,5.3
+India,"Financial Year (Apr - Mar), 2018",Male,Sikkim,Total,2.8
+India,"Financial Year (Apr - Mar), 2018",Total,Sikkim,Total,3.6
+India,"Financial Year (Apr - Mar), 2018",Female,Sikkim,Urban,10
+India,"Financial Year (Apr - Mar), 2018",Male,Sikkim,Urban,4.4
+India,"Financial Year (Apr - Mar), 2018",Total,Sikkim,Urban,5.9
+India,"Financial Year (Apr - Mar), 2018",Female,Tripura,Rural,7.9
+India,"Financial Year (Apr - Mar), 2018",Male,Tripura,Rural,6.5
+India,"Financial Year (Apr - Mar), 2018",Total,Tripura,Rural,6.7
+India,"Financial Year (Apr - Mar), 2018",Female,Tripura,Total,11.7
+India,"Financial Year (Apr - Mar), 2018",Male,Tripura,Total,6.5
+India,"Financial Year (Apr - Mar), 2018",Total,Tripura,Total,7.2
+India,"Financial Year (Apr - Mar), 2018",Female,Tripura,Urban,20.4
+India,"Financial Year (Apr - Mar), 2018",Male,Tripura,Urban,6.3
+India,"Financial Year (Apr - Mar), 2018",Total,Tripura,Urban,9.2

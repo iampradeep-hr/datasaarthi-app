@@ -1,0 +1,66 @@
+version: "3.9"
+
+services:
+
+  backend:
+    build: ./backend
+    container_name: datasaarthi-backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+      - ollama
+
+  frontend:
+    build: ./frontend
+    container_name: datasaarthi-ui
+    ports:
+      - "4200:80"
+    depends_on:
+      - backend
+
+  postgres:
+    image: ankane/pgvector:latest
+    container_name: pgvector-db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ragdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    command: >
+      postgres
+      -c shared_buffers=3GB
+      -c work_mem=64MB
+      -c maintenance_work_mem=512MB
+      -c effective_cache_size=8GB
+      -c max_connections=100
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: always
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - OLLAMA_NUM_THREADS=8
+      - OLLAMA_MAX_LOADED_MODELS=1
+      - OLLAMA_KEEP_ALIVE=24h
+
+  adminer:
+    image: adminer
+    container_name: adminer
+    restart: always
+    ports:
+      - "8081:8080"
+
+volumes:
+  pgdata:
+  ollama_data:
+
+
