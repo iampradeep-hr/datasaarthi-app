@@ -28,7 +28,7 @@ This project follows a basic **Retrieval-Augmented Generation (RAG)** approach.
 ## High-Level Architecture Diagram
 <img width="508" height="372" alt="diagram-export-3-18-2026-5_39_26-PM" src="https://github.com/user-attachments/assets/e92ed5bc-dbaf-4172-8e55-c00348409335" />
 
-## RAG Flow Diagram (Core of your project)
+## RAG Flow Diagram 
 <img width="976" height="207" alt="diagram-export-3-18-2026-5_41_03-PM" src="https://github.com/user-attachments/assets/13674cbe-0a38-4c9a-b7aa-74fade5fce1f" />
 <img width="610" height="329" alt="diagram-export-3-18-2026-5_43_35-PM" src="https://github.com/user-attachments/assets/34a96117-7c44-4d08-9214-9dd716edcd3f" />
 
@@ -69,7 +69,6 @@ Clone the repository and build the Docker images:
 docker-compose build
 ```
 <img width="1916" height="1006" alt="Screenshot from 2026-03-18 16-12-52" src="https://github.com/user-attachments/assets/afceeac0-3d7f-4881-a3b9-a9f3bb5d4984" />
-
 
 ---
 
