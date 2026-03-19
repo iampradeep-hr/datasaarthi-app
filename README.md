@@ -1,6 +1,6 @@
 # 📘 DataSaarthi
 
-DataSaarthi is a simple project I built to explore how AI can be used to interact with documents using natural language.
+DataSaarthi is a project I built to explore how AI can be used to interact with documents using natural language.
 
 Instead of manually reading long PDFs, you can upload a document and ask questions — the system processes the content and gives you relevant answers.
 
